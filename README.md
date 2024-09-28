@@ -2,6 +2,8 @@
 
 Dette projekt implementerer en dynamisk arrayliste (`ArrayList`) i C, svarende til Java's `ArrayList`, men begrænset til `int` datatypen.
 
+Testet på x86
+
 ## Funktioner
 
 - `ArrayList* alst_create()`: Opretter en ny ArrayList.
